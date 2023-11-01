@@ -6,5 +6,5 @@ int main()
  scanf("%d",&d);
  int y=d/365;
  printf("Number of Years:%d",y);
- return(0); ff
+ return(0); 
 }
